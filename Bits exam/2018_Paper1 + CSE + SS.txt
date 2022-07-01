@@ -1,0 +1,58 @@
+test1 - maths
+- given a function calculate its residue
+- for what value of p will the infinite series converse "summation from n=0 to n= infinity  of 1/(n^p)" .. options p<1,p>1,p<=1,p>=1
+- given velocity function of a particle as 2t - 3t^2 (t is time), what can you say about displacement of the particle
+   1. at t=0 and t=3,.... the particle is at different positions
+   2. at t=0, and t=3, ... the particle is at same position
+   don't rmember option 3 & 4
+-given probability distribution function of a random varaible calculate it's ...(i don't remember)
+-find integration of (e^(-z)) / (z-1)^2 .dz over the closed loop/circle  if  | z-2 | = 2; ... z is a complex no.
+-what would be the power series representation of the function 1 / (2+x)^(-1) .
+-
+
+
+
+test 1 - english :
+find antonym of invidious
+antonym of spurious
+find which part of the sentence is wrong .. ( the answer was "he is only doctor in our colony" ... the correct should be ("he is THE only doctor in our colony)) ... note the sentence was different but it doesn't matter
+replace the underlined phrase with a suitable one from given options
+given a paper fold it this way and then that way and then cut a hole here .. then on opening it, how would it look like ?
+given a series of figures.. find out which is the next one in the series from given options
+
+
+
+test 2 & 3
+which is not a stack algorithm ... fifo/lru/ etc...
+what is the output of the program.. 1) compilation error 2)segmentation fault 3&4 don't remember
+given ip address&subnet mask find the broadcast ID
+which of the following mac address is a unicast address
+which protocol used to push mail from sender's machine to the mail server ( don't remember the exact question but answer was SMTP)
+which of the following is not related to firewall ? (filter packets/security/gateway filtering etc.)
+which data structure used to implement BFS
+if BFS uses a stack instead of queue. then what traversal will we get (inorder/postorder/preorder/levelorder)
+which of the following is not true about threads : 1. a thread can be of only 1 process 2. a thread can be of multiple processes 3&4 don't remember
+in multithreading with many to 1 mapping, many to many and 1 to 1 mapping, 1 question was asked (options were something like "many to 1 mapping helps faster processing than 1 to 1 mapping", "many to many mapping helps faster processing than many to one") .. i frankly didn't understand this question
+in demand paging -- if we increase the no. of frames for a process, then i)no. of page faults will increase ii) decrease ... something like this
+page replace algorithm FIFO is used, find no. of page faults
+consider the normal parenthesis balancing algorithm which uses a stack. given input " ( ( ) ( ( ))) "  (something like this) .. find at what will be the maximum no. of parenthesis pushed on the stack at any point of time
+given a queue, with length "max_size", tell whether the condition to check overflow is "(rear+1)%max_size == front"... don't remember exactly, but you get the idea
+almost same as above, given a queue, with length "max_size", where to insert an element (options i.(rear+1)%max_size , ii. (rear)%max_size, iii. (rear)%(max_size+1) )
+given a 32 bit system, if 2^24 addresses in RAM , then what should be the size of  instruction, MBR, operand etc...it was something like this.. I don't exactly remember
+given page size and total no. of frames that can be held by RAM, find the total RAM size
+given a 2'scomplement no. find the 2's complement number from the option which it can divide. (i simply converted all of them into decimal . and one was dividing)
+two decimal no. are given , suppose we are adding them by first adding their ascii representation. then to get the correct addition, we will have to (options i. subtract ascii value of zero, ii. add ascii value of 0 .. 3&4 don't remember)
+a deck of cards. find no. of ways we can pull 5 cards such that 2 of them are kings & at least 4 of them are from same suite.
+what is advantage of Flash ROM over magnetic disk (i.cheap 2.reliable 3.fast 4. don't remember)
+which is true regarding RAM (i. accessed randomly ii.access speed depends on last accessed location (or something) iii.)
+given base register value as 10, limit register value as 4 , what is the range of addresses user can access (i) 10 to 14 (ii) 11 to 13..... option 3&4 ??
+linear grammar is closed under (1.homomorphism 2.union 3.intersection with regular 4. ?)
+time complexity of converting nfa to dfa is "exponential" & dfa to regular expression is "polynomial" .. (I told you the answer itself)
+given expression tree, which ordering is most optimal (1.inorder 2. postorder 3.pre order)
+static semantics is related to (1. macros 2.texual meaning of code 3. logical meaning of code 4. ?)
+DCE (Data Communication Equipment) is a device used for ?? (i. to accept all packets of network  ii. ? iii. ?)
+Pipelining increases the performance because of (1. by decreasing the clock frequency 2. by reducing the instruction cycle time 3. ? 4. ?)
+if we write at the end of pipe instead of reading it , what will happen...(something like this,,, went over my head)
+a question on multiple inheritance
+
+
